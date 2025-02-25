@@ -54,14 +54,14 @@ src/
 - [/api/paintings/galleries/5](https://w2025-assign1-8bp8.onrender.com/api/paintings/galleries/5)
 - [/api/paintings/artist/16](https://w2025-assign1-8bp8.onrender.com/api/paintings/artist/16)
 - [/api/paintings/artist/666](https://w2025-assign1-8bp8.onrender.com/api/paintings/artist/666)
-- [/api/paintings/artist/country/ital](https://w2025-assign1-8bp8.onrender.com/api/paintings/artist/country/ital)
+- [/api/paintings/artist/country/ital](https://w2025-assign1-8bp8.onrender.com/api/paintings/artists/country/ital)
 
 ### Genres
 - [/api/genres](https://w2025-assign1-8bp8.onrender.com/api/genres)
 - [/api/genres/76](https://w2025-assign1-8bp8.onrender.com/api/genres/76)
 - [/api/genres/painting/408](https://w2025-assign1-8bp8.onrender.com/api/genres/painting/408)
 - [/api/genres/painting/jsdfhg](https://w2025-assign1-8bp8.onrender.com/api/genres/painting/jsdfhg)
-- [/api/paintings/genre/78](https://w2025-assign1-8bp8.onrender.com/api/paintings/genre/78)
+- [/api/paintings/genres/78](https://w2025-assign1-8bp8.onrender.com/api/paintings/genre/78)
 - [/api/paintings/era/2](https://w2025-assign1-8bp8.onrender.com/api/paintings/era/2)
 
 ### Counts
