@@ -35,6 +35,8 @@ countsRouter
 
     if (error !== null) {
       res.status(500).json(error);
+    } else if(data.length < 1) {
+      res.status(404).json({ error: 'Not found' })
     } else {
       res.json(data);
     }
